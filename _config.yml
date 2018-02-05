@@ -25,6 +25,8 @@ description: A website all about myself!
 navbar-links:
   About Me: "aboutme"
   Assignments:
+    - Good Design: "good-design-2018-02-04"
+    - Bad Design: "bad-design-2018-02-04"
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
   GitHub Page: "https://github.com/davariyibi"
