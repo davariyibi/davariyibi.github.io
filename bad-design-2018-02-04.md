@@ -1,22 +1,20 @@
 ---
 layout: page
 title: Bad Design
-subtitle: The Williams College Interactive Map
+subtitle: The Williams College Alumni - Eph Network
 ---
-### Why the Map?
-When I first got on the Williams College campus the spring of senior year, despite the campus being small, I needed a way to figure out where I was and where I was going. I found the app relatively easily through the main site and immediately knew what to do from there. Since good design is characterized by ease-of-use, the quickness of easily grasping what I needed is a large plus.
+### Why the Eph Network?
+The Eph Network is a highly under-utilized resource offered by the school for current students and alumni in order to connect with each other. Despite being a service pushed by the Career Center, it is still only used by a small margin of the current Williams student body. I think this is partially due to its poor design.
 
- **Locating where I was:**
-  - Campus grounds are colored and differentiated from rest of map, so easier to spot landmarks
-  - Tourist spots were pointed to from the very beginning
+ **Issues:**
+  - Actual process of finding the Eph Network on the Alumni page is not intuitive
+  - Despite having to log in to access the network anyway, link seems to be almost hidden and is amongst similarly titled links, which adds to confusion
 
-image: ./img/good-design-0.png
+![](/img/bad-design-0.png)
 
-explain why you chose this design. Include pictures to tell the story. Think about who uses this design, when they are using it, and why they are using it.
+ - First click on 'ALUMNI/CAREER DIRECTORY'
+![](/img/bad-design-2.png)
 
+ - Then click on the text 'Search the Alumni/Career Directory' ('Click Here' was recently added due to complaints of not being able to find the network directory, but the text itself doesn't actually do anything. Another design flaw and point of confusion)
 
-image: ./img/good-design-1.png
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+The directory itself is not a bad design. It is very minimalist in its design and is pretty intuitive. However 

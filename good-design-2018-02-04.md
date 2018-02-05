@@ -11,13 +11,13 @@ When I first got on the Williams College campus the spring of senior year, despi
   - Campus grounds are colored and differentiated from rest of map, so easier to spot landmarks
   - Tourist spots were pointed to from the very beginning
 
-![](/img/good-design-0.png)
+![](/img/good-design-1.png)
 
 **Locating where I was going:**
  - Icons I am already accustomed to automatically show over tourist landmarks
  - Search bar at the top for quick search of building names specific to campus
- - Left sidebar looks like standard layout for a sidebar as well as hamburger menu icon to open it
+ - Left sidebar looks like standard layout for a sidebar as well as well-known hamburger menu icon to open it (mobile version only)
 
-![](/img/good-design-1.png)
+![](/img/good-design-0.png)
 
-explain why you chose this design. Include pictures to tell the story. Think about who uses this design, when they are using it, and why they are using it.
+Overall I feel the map is intuitive as well as decent in terms of aesthetics. Both of these paired with its clear structure and ease-of-understanding, I would find this design to be more than adequate for its function.
