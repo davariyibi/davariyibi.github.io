@@ -16,15 +16,8 @@ When I first got on the Williams College campus the spring of senior year, despi
 **Locating where I was going:**
  - Icons I am already accustomed to automatically show over tourist landmarks
  - Search bar at the top for quick search of building names specific to campus
- - Left sidebar looks like standard layout for a sidebar as well as hamburger
+ - Left sidebar looks like standard layout for a sidebar as well as hamburger menu icon to open it
 
 ![](/img/good-design-1.png)
 
 explain why you chose this design. Include pictures to tell the story. Think about who uses this design, when they are using it, and why they are using it.
-
-
-
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.

@@ -27,9 +27,7 @@ navbar-links:
   Assignments:
     - Good Design: "good-design-2018-02-04"
     - Bad Design: "bad-design-2018-02-04"
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-  GitHub Page: "https://github.com/davariyibi"
+  My GitHub Page: "https://github.com/davariyibi"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
