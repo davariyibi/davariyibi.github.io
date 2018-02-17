@@ -14,7 +14,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: David Ariyibi's Website
+title: David Ariyibi
 
 # Short description of your site
 description: A website all about myself!
@@ -25,9 +25,10 @@ description: A website all about myself!
 navbar-links:
   About Me: "aboutme"
   Assignments:
-    - Good Design: "good-design-2018-02-04"
-    - Bad Design: "bad-design-2018-02-04"
-    - eduLearn: "project-proposal"
+    - Good Design: "/_posts/good-design-2018-02-04"
+    - Bad Design: "/_posts/bad-design-2018-02-04"
+    - Project Proposal: "/_posts/project-proposal"
+  Sous Shopper: "http://sousshopper.github.io/"
   My GitHub Page: "https://github.com/davariyibi"
 
 # Image to show in the navigation bar - image must be a square (width = height)
