@@ -25,9 +25,9 @@ description: A website all about myself!
 navbar-links:
   About Me: "aboutme"
   Assignments:
-    - Good Design: "/_posts/good-design-2018-02-04"
-    - Bad Design: "/_posts/bad-design-2018-02-04"
-    - Project Proposal: "/_posts/project-proposal"
+    - Good Design: "/_posts/2018-02-04-good-design"
+    - Bad Design: "/_posts/2018-02-04-bad-design"
+    - Project Proposal: "/_posts/2018-02-14-project-proposal"
   Sous Shopper: "https://diegorgonzalez.github.io/sousshopper/"
   My GitHub Page: "https://github.com/davariyibi"
 

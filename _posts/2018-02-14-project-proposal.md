@@ -1,6 +1,6 @@
 ---
 layout: page
-title: eduLarm
+title: eduLarm Proposal
 subtitle: The Smart Way to Start the Day
 ---
 
