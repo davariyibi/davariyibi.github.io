@@ -9,4 +9,4 @@ It presents a dichotomy between mobile-based learning and distractions caused by
 
 Sous Shopper is meant to be an application people learn from, especially on the go. Optimistically, the application should fit seamlessly into one's grocery shopping experience without causing so much of a distraction as to significantly increase one's time spent in the store. However, since the application is also meant for learning, there must be some focus on the information given from the app. Thus
 
-![link](https://www.sciencedirect.com/science/article/pii/S0747563215300595)
+[This](https://www.sciencedirect.com/science/article/pii/S0747563215300595) is the link to the original paper.
