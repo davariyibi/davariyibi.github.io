@@ -3,13 +3,30 @@ layout: page
 title: Design Manifesto
 ---
 
-Human-Computer Interaction, the study of how people interact with computers and to what extent computers are or are not developed for successful interaction with human beings. - Margaret Rouse
+*Human-Computer Interaction, the study of how people interact with computers and to what extent computers are or are not developed for successful interaction with human beings.* - [Margaret Rouse](https://searchsoftwarequality.techtarget.com/definition/HCI-human-computer-interaction)
 
-I think this definition eloquently defines the two sides of the scale for which the study hopes to balance as well as the two historically separate disciplines for which the study effectively combines. In the process of choosing to take a class focusing on design and the design process, everything I knew about design on a personal level was from emulating real-world designs I thought were interesting. Design to me felt more like of an abstract art than a quantifiable, measurable aspect of accomplishing a task.   
+I think this definition eloquently defines the two sides of the scale for which the study hopes to balance as well as the two historically separate disciplines for which the study effectively combines. In the process of choosing to take a class focusing on design and the design process, everything I knew about design on a personal level was from emulating real-world designs I thought were interesting. Design to me felt more like of an abstract art than a quantifiable, measurable aspect of accomplishing a task, both of which I now see more clearly. In my journey from start to finish, I participated in the design project, Sous Shopper, focusing as much on the process of designing it as to actually designing the product.
+
+1. Understand the problem at its root
+2. Define your ethical position responsibly
+3. Keep user accessibility in mind
+4. Churn out iterations
+5. Collect and review feedback
+
+### Understanding the Problem
+Understanding any problem at its root in my opinion is the most effective way of solving the problem. However, the scope of the problem is rarely only what needs to be completed but is overwhelmingly involving who is needing the task to be completed as well as how and why they need to complete it.
 
 
-*Does Multitasking with Mobile Phones Affect Learning? A Review* is a paper which interprets an amalgamation of other papers, experiments, and studies. It uses the information gathered to focus on the question of how the use of mobile devices either help or impair learning, specifically how *mobile phone multitasking* influences academic performance. Mobile phone multitasking is defined essentially as when one's attention is divided between what they are trying to learn, be it from reading a book to taking notes in a lecture, and some off-task use of their mobile phone. This includes the act of rapidly switching between learning and attending to their mobile phone as well. The paper builds off this definition and other observations to get to its main conclusions: mobile phone multitasking overloads the mind trying to focus on more than one different streams of information, so the retention of the less immediately important information is diminished, or mobile phone multitasking puts the user in a state of continuous partial attention, where they can not even fully focus on any one source of information and end up performing poorly in all areas. I agree with both interpretations as well as focus on some of the observations made towards reducing these negative outcomes.
+### Ethics
+Among the biggest subjects in what should influence design
 
-While the paper presents a dichotomy between mobile-based learning and distractions caused by mobile phone multitasking, Sous Shopper hopes to heighten the former while minimizing the latter. As a tool, Sous Shopper is meant to be an application users actively learn from, especially while out in the world. Optimistically, the application should fit seamlessly into one's shopping experience without causing so much of a distraction as to significantly increase one's time spent in the store/market. However, since the application is also meant for learning, there must be some focus on the information provided from the app. Thus a design which strikes a balance on just how much information is shown at a time as well as what the best or fastest way of getting the relevant information across is very important. If a user is using the app while at a grocery store or farmers market, they are multitasking, and the paper sheds light on ways to minimize the effects on speed and overall learning, so that users can make quicker decisions about their produce. An addition to the design that fit right into one of the observations of the paper is the amount of images in the design of the app. If the user is already focused on looking for various items, having the multitasking be essentially the same actions, especially when it directly assists the main goal, makes it less of a distraction and can bolster better learning. That and switching from the blocks of text that would have originally been shown in the app to the freshness and ripeness page cuts down on the amount of stopping and reading. One aspect that could have been added to further help with mobile phone multitasking but is not currently provided is audio assistance. The paper emphasizes that utilizing different sensory inputs over more of the same is more effective with multitasking and divided attention. In respect to the app, while the user is already using their eyes to look around in the store/farmers market, instead of always drawing their eyes away and towards their phone, audio can relay the information instead, especially when the information is not necessarily sight-based. Determining produce ripeness and freshness is many times a combination of looks, feel, sound, and smell, thus the user would have had to stop and read if the information was only on-screen.
+At this phase in design, once you have dug deep into the problem at hand and have some grasp at what the general form of a solution should look like, the next step is to set up boundaries for yourself before going forward. This cannot be stressed enough, because a leap in the wrong direction this early in the design process will have much larger cascading effects by the time the flaw is eventually pointed out.
 
-[This](https://www.sciencedirect.com/science/article/pii/S0747563215300595) is the link to the original paper.
+### Accessibility
+As to why topics like iteration are so far back, I believe accessibility of a solution should be part of the original design and not an afterthought or add-on needing to be checked
+
+
+### Iterate
+
+
+### Feedback
