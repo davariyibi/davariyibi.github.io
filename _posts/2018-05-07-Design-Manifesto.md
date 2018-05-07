@@ -9,8 +9,8 @@ I think this definition eloquently defines the two sides of the scale for which 
   1. Understand the problem at its root
   2. Define your ethical position responsibly
   3. Keep user accessibility in mind
-  4. Churn out iterations
-  5. Collect and review feedback
+  4. Collect and review feedback
+  5. Churn out iterations
 
 While I think there are generally more than these 5 categories, and this list certainly does not exhaust all aspects, I think what this list does provide is a generally encompassing group of important topics in design.  
 
@@ -63,12 +63,6 @@ In the design of Sous Shopper, these principles manifested in the form of changi
 
 Overall, it is important to realize that not everyone interacts with technology in the same way, and many times, it is not by choice. Therefore, these differences should be taken into account especially if the solution being presented is one for which is meant for the general public. This is the expectation for designer thinkers.
 
-### Iterate
-At long last, we come to actually building the solution. And it should be done many, many times.
-![](../img/logos_0.png)
-![](../img/logos_1.png)
-*Versions of Sous Shopper Logo*
-
 ### Feedback
 I am not perfect, and I am not the user. Therefore in order to change my current solution to the best solution for the most people, I must get feedback on my current solution from many people.  
   - Contextual Inquiries
@@ -76,3 +70,9 @@ I am not perfect, and I am not the user. Therefore in order to change my current
   - Heuristics Evaluations
   - Usability Testing
   - Product Feedback
+
+### Iteration
+At long last, we come to actually building the solution. And it should be done many, many times. The point of iteration is to quickly go through many ideas and possibilities after you have already constrained your design. Each iteration should be a bit better than the last, incorporating the ldevelop
+![](../img/logos_0.png)
+![](../img/logos_1.png)
+*Versions of Sous Shopper Logo*
