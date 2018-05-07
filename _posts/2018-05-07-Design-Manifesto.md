@@ -57,15 +57,22 @@ While honesty is to be upheld at all times, it should be with respect to the use
 ### Accessibility
 I believe accessibility of a solution should be part of the original design and not an afterthought or add-on needing to be checked later on. Implementing accessibility is also meant to be done with general guidance as opposed to being overly prescriptive. For example, using bright contrast is advised for those with low vision although some users on the autistic spectrum would prefer it differently. Where advice seems contradictory, it’s always worth testing your designs with users to find the right balance, making compromises that best suit the users’ needs ([gov.uk](https://accessibility.blog.gov.uk/2016/09/02/dos-and-donts-on-designing-for-accessibility/)).
 ![](../img/Karwai-blog-1-1.png)
-*UK Government Accessibility Posters*
+*UK Government Accessibility Posters (link above)*
 
 In the design of Sous Shopper, these principles manifested in the form of changing the contrast of the colors in the app to better accommodate those who are colorblind. We also expanded the types of language used when describing produce. As for the second change, with the fleshing out of higher fidelity products, Sous Shopper was planned to include audio for certain pages like the general freshness/ripeness pages. This would allow users hands-free access to the information at times to make shopping generally faster for those with less time.
 
 Overall, it is important to realize that not everyone interacts with technology in the same way, and many times, it is not by choice. Therefore, these differences should be taken into account especially if the solution being presented is one for which is meant for the general public. This is the expectation for designer thinkers.
 
 ### Iterate
-At long last, we come to actually designing the solution. And it should be done many, many times.
-
+At long last, we come to actually building the solution. And it should be done many, many times.
+![](../img/logos_0.png)
+![](../img/logos_1.png)
+*Versions of Sous Shopper Logo*
 
 ### Feedback
 I am not perfect, and I am not the user. Therefore in order to change my current solution to the best solution for the most people, I must get feedback on my current solution from many people.  
+  - Contextual Inquiries
+  - Interviewing
+  - Heuristics Evaluations
+  - Usability Testing
+  - Product Feedback
