@@ -19,7 +19,8 @@ Understanding any problem at its root is the most effective way of solving the p
 
 In Sous Shopper, the mode of understanding our problem was through initial private and group brainstorming sessions, conducting user research, then performing a task analysis. Brainstorming in this context is very important because unless their is a complete overhaul of your design, a version or at least key aspects of what is thought up in this step will end up in the final stages of your product. In Sous Shopper, fundamental decisions like the devices for which our solution will initially support usage as well as possible kinds of interfaces were generally defined and are still prevalent in the current product.
 
-![Initial brainstorm of possible solutions in context of how the solution provides the needed information](../img/sketch1.jpg)
+![](../img/sketch1.jpg)
+*Initial brainstorm of possible solutions in context of how the solution provides the needed information*
 
 As for conducting user research, the group performed a combination of contextual inquiries and directed storytelling inquiries. While these are not the only forms of user research, specifically interviews and fly-on-the-wall observations were planned but could not be conducted due to logistical reasons, these two fit the best with our problem. Our goal was to amass pure information on the process by which shoppers select their produce so as to identify the key tasks done by a shopper and the underlying problem with any of the tasks by which or product could seamlessly fix. We conducted the inquiries on a variety of available people, taking some to grocery stores to watch them pick out produce as well as asking all of them questions and having them think aloud as they were shopping or reenacting a recent shopping experience. The main questions are as follows:
 
