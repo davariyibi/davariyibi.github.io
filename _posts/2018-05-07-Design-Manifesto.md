@@ -1,7 +1,12 @@
 ---
 layout: page
-title: Research Paper Report
+title: Design Manifesto
 ---
+
+Human-Computer Interaction, the study of how people interact with computers and to what extent computers are or are not developed for successful interaction with human beings. - Margaret Rouse
+
+I think this definition eloquently defines the two sides of the scale for which the study hopes to balance as well as the two historically separate disciplines for which the study effectively combines. In the process of choosing to take a class focusing on design and the design process, everything I knew about design on a personal level was from emulating real-world designs I thought were interesting. Design to me felt more like of an abstract art than a quantifiable, measurable aspect of accomplishing a task.   
+
 
 *Does Multitasking with Mobile Phones Affect Learning? A Review* is a paper which interprets an amalgamation of other papers, experiments, and studies. It uses the information gathered to focus on the question of how the use of mobile devices either help or impair learning, specifically how *mobile phone multitasking* influences academic performance. Mobile phone multitasking is defined essentially as when one's attention is divided between what they are trying to learn, be it from reading a book to taking notes in a lecture, and some off-task use of their mobile phone. This includes the act of rapidly switching between learning and attending to their mobile phone as well. The paper builds off this definition and other observations to get to its main conclusions: mobile phone multitasking overloads the mind trying to focus on more than one different streams of information, so the retention of the less immediately important information is diminished, or mobile phone multitasking puts the user in a state of continuous partial attention, where they can not even fully focus on any one source of information and end up performing poorly in all areas. I agree with both interpretations as well as focus on some of the observations made towards reducing these negative outcomes.
 
