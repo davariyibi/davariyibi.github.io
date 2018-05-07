@@ -24,13 +24,13 @@ In Sous Shopper, the mode of understanding our problem was through initial priva
 
 As for conducting user research, the group performed a combination of contextual inquiries and directed storytelling inquiries. While these are not the only forms of user research, specifically interviews and fly-on-the-wall observations were planned but could not be conducted due to logistical reasons, these two fit the best with our problem. Our goal was to amass pure information on the process by which shoppers select their produce so as to identify the key tasks done by a shopper and the underlying problem with any of the tasks by which or product could seamlessly fix. We conducted the inquiries on a variety of available people, taking some to grocery stores to watch them pick out produce as well as asking all of them questions and having them think aloud as they were shopping or reenacting a recent shopping experience. The main questions are as follows:
 
- - Do you have a grocery list, or do you decide on the spot?
-   * If yes, what do you plan to buy?
- - How do you choose your produce?
-   * Did you learn from anyone (i.e. a parent)?
-   * Do you choose produce based on what’s in season?
-   * Is it important to you that your produce is local?
- - Are you open to discovering new kinds of produce?
+  - Do you have a grocery list, or do you decide on the spot?
+    * If yes, what do you plan to buy?
+  - How do you choose your produce?
+    * Did you learn from anyone (i.e. a parent)?
+    * Do you choose produce based on what’s in season?
+    * Is it important to you that your produce is local?
+  - Are you open to discovering new kinds of produce?
 
 As for the task analysis, we used questions on what goes into the tasks being performed. Some of the more applicable are as follows:
   1. Who is going to use the design?
@@ -46,7 +46,7 @@ Throughout this portion of design, the foundation of what the product is current
 ### Ethics
 Perhaps the biggest next step to consider when thinking about what should direct a design process is ethics. At this phase in design, once you have dug deep into the problem at hand and have some grasp of what the general form of a solution should look like, the next step is to set up boundaries for yourself before going forward. This cannot be stressed enough, because a leap in the wrong direction this early in the design process will have much larger cascading effects by the time the flaw is eventually pointed out. If postponed, there is also a greater temptation to continue on with a less-than-ethical product due to biases plus the time and resources already spent in development.
 
-As for ethics' importance, I stumbled upon an article, located [here](http://www.businessinsider.com/programmers-debate-requirements-to-behave-respectfully-ccoc-2018-5), detailing a debate on mandatory Community Codes of Conduct by open-source communities due to the volatile nature of the people in its history. This article felt different from previous papers read on ethics in computer science because this focused highly on the actions and ideals of programmers and computer scientists and less on the technology itself. However, the root of every ethics problem comes down to the people, so I feel their views on ethics will inevitably seep into the code they write. Thus, for myself, I established a preliminary Code of Conduct, comprised from the ACM Code of Ethics and Personal Conduct. The code is as follows:
+As for ethics' importance, I stumbled upon an article, located [here](http://www.businessinsider.com/programmers-debate-requirements-to-behave-respectfully-ccoc-2018-5), detailing a debate on mandatory Community Codes of Conduct by open-source communities due to the volatile nature of the people in its history. This article felt different from previous papers read on ethics in computer science because this focused highly on the actions and ideals of programmers and computer scientists and less on the technology itself. However, the root of every ethics problem comes down to the people, so I feel their views on ethics will inevitably seep into the code they write. Thus, for myself, I established a preliminary Code of Conduct, comprised from the [ACM Code of Ethics and Personal Conduct](https://www.acm.org/about-acm/acm-code-of-ethics-and-professional-conduct). The code is as follows:
 
   - Uphold honesty with respect.
   - Take care not to unfairly discriminate.
@@ -55,10 +55,17 @@ As for ethics' importance, I stumbled upon an article, located [here](http://www
 While honesty is to be upheld at all times, it should be with respect to the user or whomever comes in contact with the technology. This encompasses aspects like preserving privacy, confidentiality, and intellectual property rights. The second bullet, along with its base-level interpretation, also involves looking at who is using the technology. People come in contact with technology from different perspectives, abilities, and levels, so ensuring that the design can either work for as many as probable or can adjust to fit those differences should be a priority. Finally, if there is a perceived outcome or side effect of the technology that then puts people at risk of harm in any way, it should be properly analyzed and dealt with accordingly. Ethics violations occur because the new technologies create issues never before seen at such a large scale. In many of these cases, no one is directly responsible, as they are mostly side effects of what is now possible. Therefore, knowing that technology intensifies everything, good or bad, computer scientists must weigh the importance as well as the possible consequences of their breakthroughs, to decide whether or not it is worth the problems it will undoubtedly cause.
 
 ### Accessibility
-As to why topics like iteration are so far back, I believe accessibility of a solution should be part of the original design and not an afterthought or add-on needing to be checked
+I believe accessibility of a solution should be part of the original design and not an afterthought or add-on needing to be checked later on. Implementing accessibility is also meant to be done with general guidance as opposed to being overly prescriptive. For example, using bright contrast is advised for those with low vision although some users on the autistic spectrum would prefer it differently. Where advice seems contradictory, it’s always worth testing your designs with users to find the right balance, making compromises that best suit the users’ needs ([gov.uk](https://accessibility.blog.gov.uk/2016/09/02/dos-and-donts-on-designing-for-accessibility/)).
+![](Karwai-blog-1-1.png)
+*UK Government Accessibility Posters*
 
+In the design of Sous Shopper, these principles manifested in the form of changing the contrast of the colors in the app to better accommodate those who are colorblind. We also expanded the types of language used when describing produce. As for the second change, with the fleshing out of higher fidelity products, Sous Shopper was planned to include audio for certain pages like the general freshness/ripeness pages. This would allow users hands-free access to the information at times to make shopping generally faster for those with less time.
+
+Overall, it is important to realize that not everyone interacts with technology in the same way, and many times, it is not by choice. Therefore, these differences should be taken into account especially if the solution being presented is one for which is meant for the general public. This is the expectation for designer thinkers.
 
 ### Iterate
+At long last, we come to actually designing the solution. And it should be done many, many times.
 
 
 ### Feedback
+I am not perfect, and I am not the user. Therefore in order to change my current solution to the best solution for the most people, I must get feedback on my current solution from many people.  
