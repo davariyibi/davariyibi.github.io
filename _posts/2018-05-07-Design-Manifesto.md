@@ -56,6 +56,7 @@ While honesty is to be upheld at all times, it should be with respect to the use
 
 ### Accessibility
 I believe accessibility of a solution should be part of the original design and not an afterthought or add-on needing to be checked later on. Implementing accessibility is also meant to be done with general guidance as opposed to being overly prescriptive. For example, using bright contrast is advised for those with low vision although some users on the autistic spectrum would prefer it differently. Where advice seems contradictory, it’s always worth testing your designs with users to find the right balance, making compromises that best suit the users’ needs ([gov.uk](https://accessibility.blog.gov.uk/2016/09/02/dos-and-donts-on-designing-for-accessibility/)).
+
 ![](../img/Karwai-blog-1-1.png)
 *UK government accessibility posters (link above)*
 
@@ -84,16 +85,19 @@ Also, for our initial design, we decided to go with the "pantry" metaphor as the
 At long last, we come to actually building the solution. And it should be done many, many times. The point of iteration is to quickly go through many ideas and possibilities after you have already constrained your design. Each iteration should be a bit better than the last, incorporating the important feedback given at each step, further developing the solution.
 
 In Sous Shopper, this was implemented from various points in the design process, from designing an initial logo, the layout of the pages, all the way to the back buttons.
+
 ![](../img/logos_0.png)
 ![](../img/logos_1.png)
 *Versions of Sous Shopper logo*
 
 Specifically, during the heuristic evaluations, we were alerted to the fact that there were no buttons to get back to a previous page in our paper prototype. While this was a relatively easy fix, if we were to stick to our original design, thinking it were perfect the first time around, our product would be unusable. We then added back buttons arrows to of all pages that required them.
- ![New Back Arrow Buttons](../img/favorites.png)
+
+![New Back Arrow Buttons](../img/favorites.png)
  *New back arrow buttons*
 
 The main screen also went through iterations. Along with the previously mentioned confusing pantry metaphor, participants felt that the main page was too cluttered and would benefit from more pictures. This was pointing our design more towards simplicity over amassing a bunch of functions as well as adding more visuals to be more easy on the eyes instead of a wall of buttons. The implemented revisions ended up being the removal of the unneeded sections of the app from the main screen as well as incorporating more featured images in the design.
- ![Main Screen Over Time](../img/main_page_overtime.png)
+
+![Main Screen Over Time](../img/main_page_overtime.png)
 *Main screen over time*
 
 There were many other aspects that were designed and redesigned to promote clarity, consistency, and simplicity. Overall, the design of the current version of the product ended up in a much better place than the original ideas made in the beginning of the semester.
