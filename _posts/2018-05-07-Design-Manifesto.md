@@ -57,22 +57,43 @@ While honesty is to be upheld at all times, it should be with respect to the use
 ### Accessibility
 I believe accessibility of a solution should be part of the original design and not an afterthought or add-on needing to be checked later on. Implementing accessibility is also meant to be done with general guidance as opposed to being overly prescriptive. For example, using bright contrast is advised for those with low vision although some users on the autistic spectrum would prefer it differently. Where advice seems contradictory, it’s always worth testing your designs with users to find the right balance, making compromises that best suit the users’ needs ([gov.uk](https://accessibility.blog.gov.uk/2016/09/02/dos-and-donts-on-designing-for-accessibility/)).
 ![](../img/Karwai-blog-1-1.png)
-*UK Government Accessibility Posters (link above)*
+*UK government accessibility posters (link above)*
 
 In the design of Sous Shopper, these principles manifested in the form of changing the contrast of the colors in the app to better accommodate those who are colorblind. We also expanded the types of language used when describing produce. As for the second change, with the fleshing out of higher fidelity products, Sous Shopper was planned to include audio for certain pages like the general freshness/ripeness pages. This would allow users hands-free access to the information at times to make shopping generally faster for those with less time.
 
 Overall, it is important to realize that not everyone interacts with technology in the same way, and many times, it is not by choice. Therefore, these differences should be taken into account especially if the solution being presented is one for which is meant for the general public. This is the expectation for designer thinkers.
 
 ### Feedback
-I am not perfect, and I am not the user. Therefore in order to change my current solution to the best solution for the most people, I must get feedback on my current solution from many people.  
+I am not perfect, and I am not the user. Therefore in order to change my current solution to the best solution for the most people, I must get feedback on my current solution from many people. Throughout the semester this was shown in various forms, the main ones listed below:
   - Contextual Inquiries
   - Interviewing
   - Heuristics Evaluations
   - Usability Testing
   - Product Feedback
 
+As explained above the feedback from the contextual inquiries and interviews built the foundation on which Sous Shopper stands. This was particular in helping the team determine what specific tasks we could facilitate with our product. Specifically, the participants of the inquiries all seemed to judge their produce in generally the same process:
+  1. Pick ripeness/seasonal category based on intended use.
+  2. Out of current category, search for lower end of prices.
+  3. Pick produce out of findings based on default standards.
+
+From the first point, we learned that shoppers didn’t simply pick the most ripe produce or tastiest for that point in time but judged the produce on how suitable it was for their longer-term plans. As for the second point, for the people we met whom themselves go to grocery stores, the common quality of not wanting to overspend was very prevalent when searching through acceptable choices. It may be of note to mention that two of our participants were college students, so this may be a bias from our small sample size. The third point mainly focused on choosing based on the absence of blemishes, smell, touch, etc. With the information acquired, we identified general themes to be included in any version of our product. This then helped us develop our main tasks, the functions our solution would actually be doing.
+
+Also, for our initial design, we decided to go with the "pantry" metaphor as the home page. It was an idea I originally brought up in a much earlier brainstorm that the group really liked and implicitly let slip through the cracks into our paper prototype. I remember the group deciding even before the contextual inquiry review which idea we would go with because we liked it more. However, once the heuristic evaluations and usability testings came into play, we were told left and right that the metaphor we thought was very intuitive was in fact very confusing and didn't really add to the purpose other than aesthetics. It was through stark feedback that we were able to see the bias we had in our designs, leading us to redesign the product entirely for the digital mockup.
+
 ### Iteration
-At long last, we come to actually building the solution. And it should be done many, many times. The point of iteration is to quickly go through many ideas and possibilities after you have already constrained your design. Each iteration should be a bit better than the last, incorporating the ldevelop
+At long last, we come to actually building the solution. And it should be done many, many times. The point of iteration is to quickly go through many ideas and possibilities after you have already constrained your design. Each iteration should be a bit better than the last, incorporating the important feedback given at each step, further developing the solution.
+
+In Sous Shopper, this was implemented from various points in the design process, from designing an initial logo, the layout of the pages, all the way to the back buttons.
 ![](../img/logos_0.png)
 ![](../img/logos_1.png)
-*Versions of Sous Shopper Logo*
+*Versions of Sous Shopper logo*
+
+Specifically, during the heuristic evaluations, we were alerted to the fact that there were no buttons to get back to a previous page in our paper prototype. While this was a relatively easy fix, if we were to stick to our original design, thinking it were perfect the first time around, our product would be unusable. We then added back buttons arrows to of all pages that required them.
+ ![New Back Arrow Buttons](../img/favorites.png)
+ *New back arrow buttons*
+
+The main screen also went through iterations. Along with the previously mentioned confusing pantry metaphor, participants felt that the main page was too cluttered and would benefit from more pictures. This was pointing our design more towards simplicity over amassing a bunch of functions as well as adding more visuals to be more easy on the eyes instead of a wall of buttons. The implemented revisions ended up being the removal of the unneeded sections of the app from the main screen as well as incorporating more featured images in the design.
+ ![Main Screen Over Time](../img/main_page_overtime.png)
+*Main screen over time*
+
+There were many other aspects that were designed and redesigned to promote clarity, consistency, and simplicity. Overall, the design of the current version of the product ended up in a much better place than the original ideas made in the beginning of the semester.
